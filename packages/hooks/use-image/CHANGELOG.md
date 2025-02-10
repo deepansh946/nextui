@@ -1,5 +1,17 @@
 # @heroui/use-image
 
+## 2.1.4
+
+### Patch Changes
+
+- [#4523](https://github.com/heroui-inc/heroui/pull/4523) [`f9c2be4`](https://github.com/heroui-inc/heroui/commit/f9c2be4509999576f5d0e5506c604d6680a9e71c) Thanks [@wingkwong](https://github.com/wingkwong)! - fix loading image after props changes (#4518)
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- Updated dependencies [[`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f)]:
+  - @heroui/use-safe-layout-effect@2.1.3
+  - @heroui/react-utils@2.1.5
+
 ## 2.1.3
 
 ### Patch Changes

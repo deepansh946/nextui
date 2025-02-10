@@ -1,5 +1,62 @@
 # @heroui/react
 
+## 2.6.15
+
+### Patch Changes
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- [#4611](https://github.com/heroui-inc/heroui/pull/4611) [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69) Thanks [@wingkwong](https://github.com/wingkwong)! - bump RA versions
+
+- Updated dependencies [[`8319308`](https://github.com/heroui-inc/heroui/commit/83193087277f1d3eacb35b3ff3c9772cdc105d29), [`7804de0`](https://github.com/heroui-inc/heroui/commit/7804de0d89783b2a862341b56097e8f5f6630ae6), [`1965b84`](https://github.com/heroui-inc/heroui/commit/1965b8406a0771427a9afb7584381a5746e37289), [`ace8406`](https://github.com/heroui-inc/heroui/commit/ace8406946f16c2bb72da94ed592dc16ba4136af), [`06d6f08`](https://github.com/heroui-inc/heroui/commit/06d6f08d8e66217d2135ef46219408a099a1359c), [`a66476d`](https://github.com/heroui-inc/heroui/commit/a66476d60c692a3328a8a531af064bb17e868aed), [`2573e82`](https://github.com/heroui-inc/heroui/commit/2573e8269bca70b63669819b661d8fb70b5ff525), [`a1cc378`](https://github.com/heroui-inc/heroui/commit/a1cc37888747a551d9dc5b2f53a1d32d839d2553), [`5e3054e`](https://github.com/heroui-inc/heroui/commit/5e3054e3188d6668538004180c137c94fad61fab), [`cddba82`](https://github.com/heroui-inc/heroui/commit/cddba8281cb161d0a8afb42e20c05094974af981), [`f7c2be0`](https://github.com/heroui-inc/heroui/commit/f7c2be0a53e2c7307ff1c411f51da502dbacbedc), [`475b2ff`](https://github.com/heroui-inc/heroui/commit/475b2ff862ed684adb4c6be9cfe08b30bc233cb4), [`0bfc03e`](https://github.com/heroui-inc/heroui/commit/0bfc03e6756fc8b9e4c3538adef4e543c50e75a6), [`8452603`](https://github.com/heroui-inc/heroui/commit/8452603b5bc00dffa6b668e473c4dbf9805c4dca), [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f), [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69), [`12a5c15`](https://github.com/heroui-inc/heroui/commit/12a5c15699880380e97e5965718eed4898a04cfb), [`3d5548e`](https://github.com/heroui-inc/heroui/commit/3d5548e30de30dbf410cff588e74f6653cb325b7), [`ae3df14`](https://github.com/heroui-inc/heroui/commit/ae3df14f7da37c11c60d2e9a0b6a19ad9d91aebf)]:
+  - @heroui/input@2.4.11
+  - @heroui/date-picker@2.3.11
+  - @heroui/date-input@2.3.10
+  - @heroui/select@2.4.11
+  - @heroui/system@2.4.8
+  - @heroui/theme@2.4.7
+  - @heroui/spinner@2.2.8
+  - @heroui/calendar@2.2.11
+  - @heroui/form@2.1.10
+  - @heroui/tooltip@2.2.9
+  - @heroui/popover@2.3.11
+  - @heroui/modal@2.2.9
+  - @heroui/listbox@2.3.11
+  - @heroui/pagination@2.2.10
+  - @heroui/kbd@2.2.8
+  - @heroui/scroll-shadow@2.3.7
+  - @heroui/autocomplete@2.3.12
+  - @heroui/breadcrumbs@2.2.8
+  - @heroui/framer-utils@2.1.8
+  - @heroui/accordion@2.2.9
+  - @heroui/input-otp@2.1.10
+  - @heroui/checkbox@2.3.10
+  - @heroui/dropdown@2.3.11
+  - @heroui/progress@2.2.8
+  - @heroui/skeleton@2.2.7
+  - @heroui/divider@2.2.7
+  - @heroui/snippet@2.2.12
+  - @heroui/avatar@2.2.8
+  - @heroui/button@2.2.11
+  - @heroui/drawer@2.2.9
+  - @heroui/navbar@2.2.10
+  - @heroui/ripple@2.2.9
+  - @heroui/slider@2.4.9
+  - @heroui/spacer@2.2.8
+  - @heroui/switch@2.2.10
+  - @heroui/alert@2.2.11
+  - @heroui/badge@2.2.7
+  - @heroui/image@2.2.7
+  - @heroui/radio@2.3.10
+  - @heroui/table@2.2.10
+  - @heroui/card@2.2.11
+  - @heroui/chip@2.2.8
+  - @heroui/code@2.2.8
+  - @heroui/link@2.2.9
+  - @heroui/menu@2.2.11
+  - @heroui/tabs@2.2.9
+  - @heroui/user@2.2.8
+
 ## 2.6.14
 
 ### Patch Changes
