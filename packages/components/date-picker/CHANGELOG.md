@@ -1,5 +1,28 @@
 # @heroui/date-picker
 
+## 2.3.11
+
+### Patch Changes
+
+- [#4346](https://github.com/heroui-inc/heroui/pull/4346) [`7804de0`](https://github.com/heroui-inc/heroui/commit/7804de0d89783b2a862341b56097e8f5f6630ae6) Thanks [@macci001](https://github.com/macci001)! - Adding support for global labelPlacement prop. (ENG-1694)
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- [#4611](https://github.com/heroui-inc/heroui/pull/4611) [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69) Thanks [@wingkwong](https://github.com/wingkwong)! - bump RA versions
+
+- [#4780](https://github.com/heroui-inc/heroui/pull/4780) [`ae3df14`](https://github.com/heroui-inc/heroui/commit/ae3df14f7da37c11c60d2e9a0b6a19ad9d91aebf) Thanks [@wingkwong](https://github.com/wingkwong)! - remove dateInputClassNames for date picker (#4495)
+
+- Updated dependencies [[`7804de0`](https://github.com/heroui-inc/heroui/commit/7804de0d89783b2a862341b56097e8f5f6630ae6), [`ace8406`](https://github.com/heroui-inc/heroui/commit/ace8406946f16c2bb72da94ed592dc16ba4136af), [`66efa0a`](https://github.com/heroui-inc/heroui/commit/66efa0a08efa96c884829bb38325ec4c799c6e22), [`a66476d`](https://github.com/heroui-inc/heroui/commit/a66476d60c692a3328a8a531af064bb17e868aed), [`5e3054e`](https://github.com/heroui-inc/heroui/commit/5e3054e3188d6668538004180c137c94fad61fab), [`cddba82`](https://github.com/heroui-inc/heroui/commit/cddba8281cb161d0a8afb42e20c05094974af981), [`7402e00`](https://github.com/heroui-inc/heroui/commit/7402e00b62eb615fbd08be4cc37a9076bbfafc5b), [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f), [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69)]:
+  - @heroui/date-input@2.3.10
+  - @heroui/calendar@2.2.11
+  - @heroui/shared-utils@2.1.4
+  - @heroui/form@2.1.10
+  - @heroui/popover@2.3.11
+  - @heroui/shared-icons@2.1.3
+  - @heroui/react-utils@2.1.5
+  - @heroui/aria-utils@2.2.9
+  - @heroui/button@2.2.11
+
 ## 2.3.10
 
 ### Patch Changes

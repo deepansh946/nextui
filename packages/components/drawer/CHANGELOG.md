@@ -1,5 +1,17 @@
 # @heroui/drawer
 
+## 2.2.9
+
+### Patch Changes
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- Updated dependencies [[`66efa0a`](https://github.com/heroui-inc/heroui/commit/66efa0a08efa96c884829bb38325ec4c799c6e22), [`5e3054e`](https://github.com/heroui-inc/heroui/commit/5e3054e3188d6668538004180c137c94fad61fab), [`7402e00`](https://github.com/heroui-inc/heroui/commit/7402e00b62eb615fbd08be4cc37a9076bbfafc5b), [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f), [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69)]:
+  - @heroui/shared-utils@2.1.4
+  - @heroui/modal@2.2.9
+  - @heroui/framer-utils@2.1.8
+  - @heroui/react-utils@2.1.5
+
 ## 2.2.8
 
 ### Patch Changes

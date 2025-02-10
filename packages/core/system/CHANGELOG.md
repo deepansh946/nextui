@@ -1,5 +1,19 @@
 # @heroui/system
 
+## 2.4.8
+
+### Patch Changes
+
+- [#4346](https://github.com/heroui-inc/heroui/pull/4346) [`7804de0`](https://github.com/heroui-inc/heroui/commit/7804de0d89783b2a862341b56097e8f5f6630ae6) Thanks [@macci001](https://github.com/macci001)! - Adding support for global labelPlacement prop. (ENG-1694)
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- [#4611](https://github.com/heroui-inc/heroui/pull/4611) [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69) Thanks [@wingkwong](https://github.com/wingkwong)! - bump RA versions
+
+- Updated dependencies [[`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f), [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69)]:
+  - @heroui/react-utils@2.1.5
+  - @heroui/system-rsc@2.3.7
+
 ## 2.4.7
 
 ### Patch Changes

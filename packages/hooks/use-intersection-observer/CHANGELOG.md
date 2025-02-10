@@ -1,5 +1,13 @@
 # @heroui/use-intersection-observer
 
+## 2.2.4
+
+### Patch Changes
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- [#4611](https://github.com/heroui-inc/heroui/pull/4611) [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69) Thanks [@wingkwong](https://github.com/wingkwong)! - bump RA versions
+
 ## 2.2.3
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @heroui/use-callback-ref
 
+## 2.1.3
+
+### Patch Changes
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- Updated dependencies [[`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f)]:
+  - @heroui/use-safe-layout-effect@2.1.3
+
 ## 2.1.2
 
 ### Patch Changes

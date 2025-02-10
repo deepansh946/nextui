@@ -1,5 +1,18 @@
 # @heroui/aria-utils
 
+## 2.2.9
+
+### Patch Changes
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- [#4611](https://github.com/heroui-inc/heroui/pull/4611) [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69) Thanks [@wingkwong](https://github.com/wingkwong)! - bump RA versions
+
+- Updated dependencies [[`7804de0`](https://github.com/heroui-inc/heroui/commit/7804de0d89783b2a862341b56097e8f5f6630ae6), [`66efa0a`](https://github.com/heroui-inc/heroui/commit/66efa0a08efa96c884829bb38325ec4c799c6e22), [`7402e00`](https://github.com/heroui-inc/heroui/commit/7402e00b62eb615fbd08be4cc37a9076bbfafc5b), [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f), [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69)]:
+  - @heroui/system@2.4.8
+  - @heroui/shared-utils@2.1.4
+  - @heroui/react-rsc-utils@2.1.3
+
 ## 2.2.8
 
 ### Patch Changes

@@ -1,5 +1,29 @@
 # @heroui/select
 
+## 2.4.11
+
+### Patch Changes
+
+- [#4346](https://github.com/heroui-inc/heroui/pull/4346) [`7804de0`](https://github.com/heroui-inc/heroui/commit/7804de0d89783b2a862341b56097e8f5f6630ae6) Thanks [@macci001](https://github.com/macci001)! - Adding support for global labelPlacement prop. (ENG-1694)
+
+- [#4386](https://github.com/heroui-inc/heroui/pull/4386) [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Tailwind variants upgraded to the latest version, classnames adjusted, tests fixed
+
+- [#4611](https://github.com/heroui-inc/heroui/pull/4611) [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69) Thanks [@wingkwong](https://github.com/wingkwong)! - bump RA versions
+
+- Updated dependencies [[`1965b84`](https://github.com/heroui-inc/heroui/commit/1965b8406a0771427a9afb7584381a5746e37289), [`66efa0a`](https://github.com/heroui-inc/heroui/commit/66efa0a08efa96c884829bb38325ec4c799c6e22), [`a66476d`](https://github.com/heroui-inc/heroui/commit/a66476d60c692a3328a8a531af064bb17e868aed), [`5e3054e`](https://github.com/heroui-inc/heroui/commit/5e3054e3188d6668538004180c137c94fad61fab), [`f7c2be0`](https://github.com/heroui-inc/heroui/commit/f7c2be0a53e2c7307ff1c411f51da502dbacbedc), [`7402e00`](https://github.com/heroui-inc/heroui/commit/7402e00b62eb615fbd08be4cc37a9076bbfafc5b), [`8d55d92`](https://github.com/heroui-inc/heroui/commit/8d55d926569cd8bd6ea76f562ca133a22c1cd47b), [`69aa476`](https://github.com/heroui-inc/heroui/commit/69aa4769c043bfe250113950aa0d6b12158e4b7f), [`3d9b600`](https://github.com/heroui-inc/heroui/commit/3d9b60096dd3d8c37a71ca4fda806c2e9b739c69)]:
+  - @heroui/spinner@2.2.8
+  - @heroui/shared-utils@2.1.4
+  - @heroui/form@2.1.10
+  - @heroui/popover@2.3.11
+  - @heroui/listbox@2.3.11
+  - @heroui/use-aria-button@2.2.6
+  - @heroui/use-safe-layout-effect@2.1.3
+  - @heroui/use-aria-multiselect@2.4.5
+  - @heroui/scroll-shadow@2.3.7
+  - @heroui/shared-icons@2.1.3
+  - @heroui/react-utils@2.1.5
+  - @heroui/aria-utils@2.2.9
+
 ## 2.4.10
 
 ### Patch Changes

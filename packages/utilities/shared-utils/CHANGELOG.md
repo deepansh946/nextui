@@ -1,5 +1,13 @@
 # @heroui/shared-utils
 
+## 2.1.4
+
+### Patch Changes
+
+- [#4600](https://github.com/heroui-inc/heroui/pull/4600) [`66efa0a`](https://github.com/heroui-inc/heroui/commit/66efa0a08efa96c884829bb38325ec4c799c6e22) Thanks [@wingkwong](https://github.com/wingkwong)! - update brand name
+
+- [#4491](https://github.com/heroui-inc/heroui/pull/4491) [`7402e00`](https://github.com/heroui-inc/heroui/commit/7402e00b62eb615fbd08be4cc37a9076bbfafc5b) Thanks [@winchesHe](https://github.com/winchesHe)! - Tabs with prop destroyInactiveTabPanel error in nextjs15(#4344)
+
 ## 2.1.3
 
 ### Patch Changes
